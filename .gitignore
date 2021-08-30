@@ -1,0 +1,4 @@
+terraform
+/volumes/*
+infrastructure/.terraform/*
+infrastructure/local-state/*
